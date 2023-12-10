@@ -3,3 +3,6 @@ There are only three types of magic in existence.
 The three types of magic are: Elemental Magic, Heavenly Magic and Dark Magic.
 
 Out of the three magic types there are no other known magic types.
+
+Shield Spell: Allows the user to cast a shield that gives nullifies Elemental Magic attacks.
+
