@@ -1,17 +1,3 @@
-The types of magic are: Elemental Magic, Arcane Magic, Necromancy, Divine Magic, Shadow Magic, Runic Magic, Soul Magic and Nature Magic.
+There are only three types of magic in existence.
 
-Elemental Magic: Harnessing the primal forces of nature—fire, water, earth, and air—elemental magic allows manipulation and control of these fundamental elements. Practitioners wield flames, conjure storms, sculpt earth, and manipulate the flow of water.
-
-Arcane Magic: The most versatile and intricate form of magic, arcane practitioners tap into the raw magical energy permeating the world. It encompasses a wide array of spells, including enchantments, illusions, telekinesis, and transmutation.
-
-Necromancy: Considered a forbidden art, necromancy delves into the manipulation of life force and death energies. Necromancers command the spirits of the deceased, reanimate corpses, and sometimes commune with the afterlife.
-
-Divine Magic: Derived from faith and devotion to higher powers, divine magic draws its strength from deities or spiritual entities. It includes healing, blessings, curses, and the ability to channel divine energy for various effects.
-
-Shadow Magic: Tainted by darkness, shadow magic manipulates the shadows and darkness itself. Users can cloak themselves, create illusions, drain life force, and tap into the malevolent energies of the Void.
-
-Runic Magic: Utilizing ancient symbols and glyphs, runic magic channels power through inscribed symbols. Runes are imbued with specific properties, granting protection, enhancing abilities, or casting spells upon activation.
-
-Soul Magic: An esoteric form tied to the essence of beings, soul magic deals with manipulating and interacting with souls. It involves soul-binding, extracting knowledge, or infusing objects with spiritual energies.
-
-Nature Magic: Focused on the balance and harmony of the natural world, nature magic involves communion with flora and fauna. Practitioners can heal, communicate with animals, manipulate plants, and harness the forces of growth and decay.
+The three types of magic are: Elemental Magic, Heavenly Magic and Dark Magic.
