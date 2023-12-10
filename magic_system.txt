@@ -1,4 +1,4 @@
-The types of magic that exist in this world are: Elemental Magic, Arcane Magic, Necromancy, Divine Magic, Shadow Magic, Runic Magic, Soul Magic and Nature Magic.
+The types of magic are: Elemental Magic, Arcane Magic, Necromancy, Divine Magic, Shadow Magic, Runic Magic, Soul Magic and Nature Magic.
 
 Elemental Magic: Harnessing the primal forces of nature—fire, water, earth, and air—elemental magic allows manipulation and control of these fundamental elements. Practitioners wield flames, conjure storms, sculpt earth, and manipulate the flow of water.
 
