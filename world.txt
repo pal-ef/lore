@@ -1,3 +1,7 @@
 The current year is 1302.
 
 There are three big kingdoms: Solarae, Sylvantia and Frostfallen.
+
+Frostfallen has become infested with dark creatures.
+
+There are several types of dark creatures that inhabit Frostfallen, for example the Dark Slime, a creature is inmune to physical damage, it's about 1 meter tall.
